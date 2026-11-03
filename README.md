@@ -1,2 +1,4 @@
-# to-do-list
-Generated with AI App Builder: To-Do List
+# To-Do List
+
+Generated with AI App Builder.
+Package: com.example.todoapp
